@@ -1,0 +1,18 @@
+@import "./bootstrap.css";
+* {
+  margin: 0;
+  padding: 0;
+}
+/* body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+#navbar {
+  background: #8540f5 !important;
+}
+
+.container .row {
+  gap: 30px;
+}
